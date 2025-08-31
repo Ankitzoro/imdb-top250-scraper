@@ -32,7 +32,7 @@ The scraper extracts the following information for each movie:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/imdb-top250-scraper.git
+git clone https://github.com/Ankitzoro/imdb-top250-scraper.git
 cd imdb-top250-scraper
 ```
 
